@@ -1,0 +1,62 @@
+[
+    {
+        "fecha": "2025-08-08 19:25:48",
+        "items": [
+            {
+                "nombre": "fideos",
+                "cantidad": 3,
+                "precio": 2.8,
+                "sub_total": 8.4
+            }
+        ],
+        "total": 8.4
+    },
+    {
+        "fecha": "2025-08-08 22:36:31",
+        "items": [
+            {
+                "nombre": "arroz",
+                "cantidad": 1,
+                "precio": 3.5,
+                "sub_total": 3.5
+            },
+            {
+                "nombre": "azúcar",
+                "cantidad": 5,
+                "precio": 4.2,
+                "sub_total": 21.0
+            },
+            {
+                "nombre": "chocolate",
+                "cantidad": 2,
+                "precio": 3.0,
+                "sub_total": 6.0
+            }
+        ],
+        "total": 30.5
+    },
+    {
+        "fecha": "2025-08-09 09:56:20",
+        "items": [
+            {
+                "nombre": "leche",
+                "cantidad": 1,
+                "precio": 4.5,
+                "sub_total": 4.5
+            },
+            {
+                "nombre": "fideos",
+                "cantidad": 2,
+                "precio": 2.8,
+                "sub_total": 5.6
+            },
+            {
+                "nombre": "galleta",
+                "cantidad": 2,
+                "precio": 2.5,
+                "sub_total": 5.0
+            }
+        ],
+        "total": 15.1
+    }
+]

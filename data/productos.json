@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "arroz",
+        "precio": 3.5,
+        "stock": 20
+    },
+    {
+        "id": 2,
+        "nombre": "azúcar",
+        "precio": 4.2,
+        "stock": 7
+    },
+    {
+        "id": 3,
+        "nombre": "fideos",
+        "precio": 2.8,
+        "stock": 25
+    },
+    {
+        "id": 4,
+        "nombre": "galleta",
+        "precio": 2.5,
+        "stock": 20
+    },
+    {
+        "id": 5,
+        "nombre": "helado",
+        "precio": 4.0,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "nombre": "chocolate",
+        "precio": 3.0,
+        "stock": 5
+    },
+    {
+        "id": 7,
+        "nombre": "leche",
+        "precio": 4.5,
+        "stock": 10
+    }
+]
