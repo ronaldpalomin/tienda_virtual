@@ -28,10 +28,6 @@ Aplicación de escritorio para gestionar una tienda virtual, con modo **Administ
 
 ![Cliente - carrito](screenshots/cliente_carrito.png)  
 *Vista del cliente mostrando el carrito.*
-
-*(Si tienes un GIF de demo, inclúyelo así)*  
-![Demo GIF](screenshots/demo.gif)
-
 ---
 
 ## 🛠 Tecnologías
